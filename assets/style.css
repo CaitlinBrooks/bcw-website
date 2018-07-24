@@ -6,6 +6,8 @@ h1 {
 }
 
 .reasons {
+  border-top: 6px solid rgb(141, 205, 245);
+  border-top-width: 100%;
   text-align: center;
   margin-left: 11%;
   max-width: 50%;
