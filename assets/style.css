@@ -1,3 +1,16 @@
 h1 {
-  background-color: rgb(34, 77, 133);
+  background-color: rgb(52, 107, 180);
+  font-size: 300%;
+  text-align: center;
+}
+.reasons {
+  text-align: center;
+  margin-left: 5%;
+  max-width: 50%;
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  max-width: 35%;
 }
